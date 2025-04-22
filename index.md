@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Just Another Simulation
+# UN Simulation
 
 ![Placeholder](assets/images/placeholder.png)
 
