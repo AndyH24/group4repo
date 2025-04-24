@@ -9,7 +9,7 @@ permalink: /
 
 ![Placeholder](assets/images/placeholder.png)
 
-Overview: 
+# Overview
 	For this simulation, a case-based approach will be utilized. By using the evaluation metrics that are below, players will be able to understand, analyze, and then recommend whether an international conflict meets the criteria or has the ability to have a United Nations peacekeeping mission deployed to the conflict's area of operation. A United Nations peacekeeping mission is defined as “a deployment of military and civilian personnel by the United Nations to help countries transition from conflict to peace. These missions provide security, political support, and peacebuilding assistance to support countries in their early transition from conflict.”(Vision of Humanity, 2020) UN peacekeeping missions  allow conflicts around the world to come to an end and provide a sense of stability 
 	Players of this simulation will be able to recommend on whether a conflict is able to have a UN peacekeeping mission through three different and nuanced scenarios. The first scenario is the conflict in Cyprus. This conflict addresses the fighting between the Greek Cypriot and Turkish Cypriot communities and their armed fighting during the 1960’s and 1970’s. The second scenario will be the conflict in South Sudan. In 2011 South Sudan broke away from Sudan proper and became the world's newest country. This was a dangerous civil war that broke out from this conflict. The final scenario will be a hypothetical China vs Taiwan conflict. This will have the Chinese make the first move in the conflict and push the Taiwanese to defend themselves. Allies, especially the United States, come to the aid of Taiwan and a proxy war ensues. 
 
