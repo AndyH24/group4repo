@@ -25,17 +25,17 @@ Having clear learning outcomes and expected outcomes of this simulation allows t
 
 ## Four Learning Outcomes 
 
-- *Learn how and why a UN peacekeeping mission can be created 
-- *Understand international relations and alliances and how they affect sending in peacekeepers 
-- *Develop an understanding of the Security Council and the importance of the five permanent members
-- *Be able to explain what a proxy conflict is and how it affects regional stability. 
+- Learn how and why a UN peacekeeping mission can be created 
+- Understand international relations and alliances and how they affect sending in peacekeepers 
+- Develop an understanding of the Security Council and the importance of the five permanent members
+- Be able to explain what a proxy conflict is and how it affects regional stability. 
 
 
 ## Four Simulation Outcomes 
-- *Creating a stable and secure environment that promote a long-term sustainable peace
-- *Foster conditions under which sustainable political solutions can be achieved thus allowing communities to rebuild after conflict.  
-- *Bring a proxy conflict to a peaceful end, without the larger, more powerful states joining the conflict (especially the Chinese-Taiwan conflict) 
-- *Deploy peacekeepers in a contested region, in accordance with their mandate of no-fire-first. 
+- Creating a stable and secure environment that promote a long-term sustainable peace
+- Foster conditions under which sustainable political solutions can be achieved thus allowing communities to rebuild after conflict.  
+- Bring a proxy conflict to a peaceful end, without the larger, more powerful states joining the conflict (especially the Chinese-Taiwan conflict) 
+- Deploy peacekeepers in a contested region, in accordance with their mandate of no-fire-first. 
 
 ## Evaluation Metrics: 
 
