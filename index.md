@@ -40,8 +40,8 @@ Having clear learning outcomes and expected outcomes of this simulation allows t
 ## Evaluation Metrics: 
 
 The evaluation metrics below will allow for players of the simulation to understand whether a conflict can or cannot have a UN peacekeeping mission deployed. The evaluation metrics below are taken directly from the United Nations website as they provide criteria and steps that need to be followed for a United Nations peacekeeping mission and therefore peacekeepers to be deployed. 
-- What is the conflict? 
--- Does the conflict fall into at least one of the 4 mandates that UN Peacekeeping missions aim to ensure: 
+1. What is the conflict? 
+a. Does the conflict fall into at least one of the 4 mandates that UN Peacekeeping missions aim to ensure: 
 Deploy to prevent the outbreak of conflict or the spill-over of conflict across borders;
 Stabilize conflict situations after a ceasefire, to create an environment for the parties to reach a lasting peace agreement;
 Assist in implementing comprehensive peace agreements;
