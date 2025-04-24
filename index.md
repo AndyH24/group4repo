@@ -23,19 +23,23 @@ Identifying all necessary and relevant parties to United Nations peacekeeping mi
 
 Having clear learning outcomes and expected outcomes of this simulation allows the player to know what they should be looking for and what lessons they can learn from completing the simulation. After playing through our three scenarios in the simulation plays should be able to achieve the following learning and simulation outcomes: 
 
-Four Learning Outcomes: 
-Learn how and why a UN peacekeeping mission can be created 
-Understand international relations and alliances and how they affect sending in peacekeepers 
-Develop an understanding of the Security Council and the importance of the five permanent members
-Be able to explain what a proxy conflict is and how it affects regional stability. 
-Four Simulation Outcomes: 
-Creating a stable and secure environment that promote a long-term sustainable peace
-Foster conditions under which sustainable political solutions can be achieved thus allowing communities to rebuild after conflict.  
-Bring a proxy conflict to a peaceful end, without the larger, more powerful states joining the conflict (especially the Chinese-Taiwan conflict) 
-Deploy peacekeepers in a contested region, in accordance with their mandate of no-fire-first. 
+## Four Learning Outcomes 
 
-Evaluation Metrics: 
-	  The evaluation metrics below will allow for players of the simulation to understand whether a conflict can or cannot have a UN peacekeeping mission deployed. The evaluation metrics below are taken directly from the United Nations website as they provide criteria and steps that need to be followed for a United Nations peacekeeping mission and therefore peacekeepers to be deployed. 
+- *Learn how and why a UN peacekeeping mission can be created 
+- *Understand international relations and alliances and how they affect sending in peacekeepers 
+- *Develop an understanding of the Security Council and the importance of the five permanent members
+- *Be able to explain what a proxy conflict is and how it affects regional stability. 
+
+
+## Four Simulation Outcomes 
+- *Creating a stable and secure environment that promote a long-term sustainable peace
+- *Foster conditions under which sustainable political solutions can be achieved thus allowing communities to rebuild after conflict.  
+- *Bring a proxy conflict to a peaceful end, without the larger, more powerful states joining the conflict (especially the Chinese-Taiwan conflict) 
+- *Deploy peacekeepers in a contested region, in accordance with their mandate of no-fire-first. 
+
+## Evaluation Metrics: 
+
+The evaluation metrics below will allow for players of the simulation to understand whether a conflict can or cannot have a UN peacekeeping mission deployed. The evaluation metrics below are taken directly from the United Nations website as they provide criteria and steps that need to be followed for a United Nations peacekeeping mission and therefore peacekeepers to be deployed. 
 What is the conflict? 
 Does the conflict fall into at least one of the 4 mandates that UN Peacekeeping missions aim to ensure: 
 Deploy to prevent the outbreak of conflict or the spill-over of conflict across borders;
