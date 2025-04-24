@@ -42,21 +42,21 @@ Having clear learning outcomes and expected outcomes of this simulation allows t
 The evaluation metrics below will allow for players of the simulation to understand whether a conflict can or cannot have a UN peacekeeping mission deployed. The evaluation metrics below are taken directly from the United Nations website as they provide criteria and steps that need to be followed for a United Nations peacekeeping mission and therefore peacekeepers to be deployed. 
 1. What is the conflict? 
 2. Does the conflict fall into at least one of the 4 mandates that UN Peacekeeping missions aim to ensure: 
-- Deploy to prevent the outbreak of conflict or the spill-over of conflict across borders;
-- Stabilize conflict situations after a ceasefire, to create an environment for the parties to reach a lasting peace agreement;
-- Assist in implementing comprehensive peace agreements;
-- Lead states or territories through a transition to stable government, based on democratic principles, good governance and economic development
-Initial consultation
-As a conflict develops, worsens, or approaches resolution, the UN is frequently involved in a number of consultations to determine the best response by the international community. These consultations would likely involve: 
-All relevant United Nations actors
-The potential host government and the parties on the ground
-Member States, including States that might contribute troops and police to a peace operation
-Regional and other intergovernmental organizations
-Other relevant key external partners
-During this initial phase the UN Secretary-General may request a strategic assessment to identify all possible options for UN engagement.
-Technical field assessment
+  - Deploy to prevent the outbreak of conflict or the spill-over of conflict across borders;
+  - Stabilize conflict situations after a ceasefire, to create an environment for the parties to reach a lasting peace agreement;
+  - Assist in implementing comprehensive peace agreements;
+  - Lead states or territories through a transition to stable government, based on democratic principles, good governance and economic development
+3. Initial consultation
+  - As a conflict develops, worsens, or approaches resolution, the UN is frequently involved in a number of consultations to determine the best response by the international community. These consultations would likely involve: 
+    - All relevant United Nations actors
+    - The potential host government and the parties on the ground
+    - Member States, including States that might contribute troops and police to a peace operation
+    - Regional and other intergovernmental organizations
+    - Other relevant key external partners
+  - During this initial phase the UN Secretary-General may request a strategic assessment to identify all possible options for UN engagement.
+4. Technical field assessment
 As soon as security conditions permit, the Secretariat usually deploys a technical assessment mission to the country or territory where the deployment of a UN peace operation is envisaged. The assessment mission analyzes and assesses the overall security, political, military, humanitarian and human rights situation on the ground, and its implications for a possible operation. Based on the findings and recommendations of the assessment mission, the UN Secretary-General will issue a report to the Security Council. This report will present options for the establishment of a peace operation as appropriate including its size and resources. The report will also include financial implications and a statement of preliminary estimated costs.
-Security Council resolution
+5. Security Council resolution
 If the Security Council determines that deploying a UN peace operation is the most appropriate step to take, it will formally authorize this by adopting a resolution. The resolution sets out the operation’s mandate and size, and details the tasks it will be responsible for performing. The budget and resources are then subject to General Assembly approval.
 
 
