@@ -2,7 +2,7 @@
 title: South Sudan
 layout: event
 parent: Scenarios
-nav_order: 2
+nav_order: 1
 ---
 
 # South Sudan
