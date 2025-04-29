@@ -1,6 +1,6 @@
 ---
-title: China vs. Taiwan
+title: China vs. Taiwan Conflict
 layout: page
 parent: Resources
-nav_order: 5
+nav_order: 3
 ---
