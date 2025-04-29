@@ -2,14 +2,26 @@ center:
   latitude: 37.229572
   longitude: -80.413940
   zoom: 3
+
 locations:
-  - name: VT
-    description: Go Hokies!
-    latitude: 37.2249991
-    longitude: -80.4249983
-    url: https://www.vt.edu
-  - name: IAD
-    description: Dulles Airport
-    latitude: 38.9522
-    longitude: -77.4579
-    url: https://www.flydulles.com
+  - name: Sudan/South Sudan Border
+    description: Border region between Sudan and South Sudan
+    latitude: 10.5
+    longitude: 30.5
+    url:
+  - name: Cyprus
+    description: Central Cyprus
+    latitude: 35.1264
+    longitude: 33.4299
+    url:
+  - name: China
+    description: Mainland China
+    latitude: 35.8617
+    longitude: 104.1954
+    url:
+  - name: Taiwan
+    description: Taiwan (Republic of China)
+    latitude: 23.6978
+    longitude: 120.9605
+    url:
+
