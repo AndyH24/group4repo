@@ -16,4 +16,6 @@ In the simulation, players will use evaulation metrics and consider the followin
 3. How the African Union, neighboring countries (Uganda, Ethiopia, Kenya), and external powers (U.S., China) influence peacekeeping prospects.
 4. The real-world example of UNMISS (United Nations Mission in South Sudan) and lessons learned for peacekeeper deployment and effectiveness.
 
-Key Challenge for Players: Can a peacekeeping mission stabilize the situation enough to foster peace agreements and democratic governance, despite ongoing violence and discord among factions?
+Key Consideration for Players: Can a peacekeeping mission stabilize the situation enough to foster peace agreements and democratic governance, despite ongoing violence and discord among factions?
+
+Prompt: Write a recommendation below on whether this conflict has the ability to have a UN Peace Keeping Mission.
