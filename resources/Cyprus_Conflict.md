@@ -2,7 +2,6 @@
 title: Cyprus Conflict
 layout: page
 parent: Resources
-nav_order: 3
+nav_order: 1
 ---
-maybe there needs to be something here
 
