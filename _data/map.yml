@@ -8,20 +8,18 @@ locations:
     description: Border region between Sudan and South Sudan
     latitude: 10.5
     longitude: 30.5
-    url:
+    url: https://peacekeeping.un.org/en/mission/unmiss
   - name: Cyprus
     description: Central Cyprus
     latitude: 35.1264
     longitude: 33.4299
-    url:
+    url: https://peacekeeping.un.org/en/mission/unficyp
   - name: China
     description: Mainland China
     latitude: 35.8617
     longitude: 104.1954
-    url:
   - name: Taiwan
     description: Taiwan (Republic of China)
     latitude: 23.6978
     longitude: 120.9605
-    url:
 
