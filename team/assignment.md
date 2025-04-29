@@ -12,4 +12,6 @@ nav_order: 1
 | A B          | Position 1        | UN Security Council |
 | C D          | Position 2        | Countries involved in Conflict   |
 | E F          | Position 3        | Regional Organizations |
-| G H          | Position 4        | UN Secretary |
+| G H          | Position 4        | UN Secretary=Generals Office |
+| I J          | Position 5        | News Organizations |
+| K L          | Position 6        | Department of Peace Operations |
