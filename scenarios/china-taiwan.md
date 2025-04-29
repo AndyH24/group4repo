@@ -15,5 +15,7 @@ In the simulation, players will use evaulation metrics and consider the followin
 3. How regional organizations and humanitarian groups might get involved despite a deadlock at the UN level.
 4. The possibility of a new innovative peacekeeping mandate tailored for this large conflict, focusing on humanitarian relief, ceasefire observation, or the facilitation of peace talks.
 
-Key Challenge for Players:
+Key Consideration for Players:
 How to design a peacekeeping initiative that could be acceptable or at least tolerable to major powers, without escalating the conflict into global war?
+
+Prompt: Write a recommendation below on whether this conflict has the ability to have a UN Peace Keeping Mission.
