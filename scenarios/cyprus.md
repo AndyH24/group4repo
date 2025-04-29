@@ -15,4 +15,6 @@ In the simulation, players will use evaulation metrics and consider the followin
 3. Regional dynamics (NATO involvement, Cold War tensions) and their influence on Security Council decisions.
 4. Historical deployment of the UN Peacekeeping Force in Cyprus (UNFICYP) as a reference, considering whether conditions today would still justify a mission.
 
-Key Challenge for Players: Can a sustainable ceasefire be enforced, and can conditions be created for long-term reconciliation given external power interests?
+Key Consideration for Players: Can a sustainable ceasefire be enforced, and can conditions be created for long-term reconciliation given external power interests?
+
+Prompt: Write a recommendation below on whether this conflict has the ability to have a UN Peace Keeping Mission.
