@@ -58,8 +58,3 @@ The evaluation metrics below will allow for players of the simulation to underst
   - As soon as security conditions permit, the Secretariat usually deploys a technical assessment mission to the country or territory where the deployment of a UN peace operation is envisaged. The assessment mission analyzes and assesses the overall security, political, military, humanitarian and human rights situation on the ground, and its implications for a possible operation. Based on the findings and recommendations of the assessment mission, the UN Secretary-General will issue a report to the Security Council. This report will present options for the establishment of a peace operation as appropriate including its size and resources. The report will also include financial implications and a statement of preliminary estimated costs.
 5. Security Council resolution
   - If the Security Council determines that deploying a UN peace operation is the most appropriate step to take, it will formally authorize this by adopting a resolution. The resolution sets out the operation’s mandate and size, and details the tasks it will be responsible for performing. The budget and resources are then subject to General Assembly approval.
-
-
-- [GitHub Repository](https://github.com/future-of-security/simulation-template)
-- [Markdown Examples](https://github.com/just-the-docs/just-the-docs/blob/main/docs/index-test.md) -> [Generated Page](https://just-the-docs.com/docs/index-test/)
-- [GitHub Pages](https://pages.github.com/)
