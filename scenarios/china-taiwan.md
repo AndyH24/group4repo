@@ -9,7 +9,7 @@ nav_order: 1
 
 Description: This future-based scenario imagines a situation where China initiates military action against Taiwan to assert reunification by force. Taiwan then defends itself while its allies (The United States, Japan, and possibly other countries) are drawn into a proxy conflict without direct war between superpowers. The global community faces high stakes involving global politics, economic disruption, and the risk of full-blown nuclear war.
 
-In the simulation, players will assess:
+In the simulation, players will use evaulation metrics and consider the following when making a reccoemndation: 
 1. Whether the conflict falls under UN peacekeeping mandates.
 2. The barrier of a potential Chinese veto in the Security Council against a UN intervention.
 3. How regional organizations and humanitarian groups might get involved despite a deadlock at the UN level.
