@@ -9,6 +9,7 @@ nav_order: 1
 
 | Name         | Role              | Group        |
 |:-------------|:------------------|:-------------|
-| A B          | Position 1        | Governmental |
-| C D          | Position 2        | Excecutive   |
-| E F          | Position 3        | Governmental |
+| A B          | Position 1        | UN Security Council |
+| C D          | Position 2        | Countries involved in Conflict   |
+| E F          | Position 3        | Regional Organizations |
+| G H          | Position 4        | UN Secretary |
