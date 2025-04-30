@@ -1,5 +1,5 @@
 ---
-title: South Sudan
+title: South Sudan Conflict
 layout: event
 parent: Scenarios
 nav_order: 1
