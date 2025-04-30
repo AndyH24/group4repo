@@ -1,5 +1,5 @@
 ---
-title: Cyprus
+title: Cyprus Conflict
 layout: event
 parent: Scenarios
 nav_order: 1
