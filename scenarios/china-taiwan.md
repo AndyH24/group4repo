@@ -1,5 +1,5 @@
 ---
-title: China and Taiwan Conflict
+title: Hypothetical China and Taiwan Conflict
 layout: event
 parent: Scenarios
 nav_order: 1
